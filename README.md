@@ -5,5 +5,7 @@ The Bharat Intern Web Development Internship offers a comprehensive and hands-on
 Projects created
 
 Netflix clone
+
 Portfolio Website
+
 weather app
